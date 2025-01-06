@@ -14,7 +14,7 @@ to poke the man to see if he's still living.
 - Chapter 10 of 12 (0.83) - https://web.stanford.edu/~jurafsky/slp3/
 - Chapter 3 of 9 (0.33) - https://book.systemsapproach.org/index.html
 - [ ] GRPC  - https://www.linkedin.com/learning/beginner-s-guide-to-go-protocol-buffer/github-codespaces
-- [ ] Apache Kafa - https://www.linkedin.com/learning/complete-guide-to-apache-kafka-for-beginners/consumer-groups-and-consumer-offsets
+- [ ] Apache Kafka - https://www.linkedin.com/learning/complete-guide-to-apache-kafka-for-beginners/consumer-groups-and-consumer-offsets
 ## Past Projects
 
 ## Past Learning
