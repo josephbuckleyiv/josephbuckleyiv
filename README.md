@@ -1,4 +1,4 @@
-## Good Afternoon,
+## Ciao,
 I'm Joseph, a Programmer/Mathematician based in San Diego, California. Currently, I'm looking for
 entry level positions/ internships, excited and enthusiastic to initiate my professional career.
 As the job market is tough right now, and idle hands are the the devils plaything, I've striven to
