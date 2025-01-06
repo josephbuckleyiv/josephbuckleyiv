@@ -15,8 +15,14 @@ to poke the man to see if he's still living.
 
 ## Past Projects
 
-## Past Courses
- - [x] asdfas
+## Past Learning
+ - [x] GraphQL Essential Training
+ - [x] Advanced SQL for Data Science: Time Series
+ - [x] Agile Software Development (Scrum)
+ - [x] Microsoft Certified: Azure Fundamentals
+ - [x] Software Development Life Cycle 
+ - [x] Computer Vision - 
+ - [x] 'Advanced Python' - https://www.linkedin.com/learning/advanced-python-2018/welcome
 
 
 ## Misc. Things I worked on
