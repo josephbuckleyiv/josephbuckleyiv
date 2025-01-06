@@ -13,9 +13,14 @@ to poke the man to see if he's still living.
  to solving an everpresent problem in today's cumulonimbus world.
 ## Current Education
 
-##
+## Past Projects
 
 ## Past Courses
+- [x] 
 
 
-
+## Misc. Things I worked on
+- OpenGL \
+- Logsistic Regression Model in CPP using Eigen Library \
+- JoQL - the most basic of scripting languages using CoCo/R to create transpiler into C# code. \
+  
