@@ -16,11 +16,11 @@ to poke the man to see if he's still living.
 ## Past Projects
 
 ## Past Courses
-- [x] 
+ [x] 
 
 
 ## Misc. Things I worked on
-- OpenGL \
-- Logsistic Regression Model in CPP using Eigen Library \
-- JoQL - the most basic of scripting languages using CoCo/R to create transpiler into C# code. \
+- OpenGL renderer
+- Logsistic Regression Model in CPP using Eigen Library 
+- JoQL - the most basic of scripting languages using CoCo/R to create transpiler into C# code. 
   
