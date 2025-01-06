@@ -16,12 +16,12 @@ to poke the man to see if he's still living.
 ## Past Projects
 
 ## Past Learning
- - [x] GraphQL Essential Training
- - [x] Advanced SQL for Data Science: Time Series
- - [x] Agile Software Development (Scrum)
+ - [x] GraphQL Essential Training - https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials
+ - [x] Advanced SQL for Data Science: Time Series - https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/learn-time-series-data-analysis-with-sql-23478409
+ - [x] Agile Software Development (Scrum) - https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-for-agile-software-development
  - [x] Microsoft Certified: Azure Fundamentals
- - [x] Software Development Life Cycle 
- - [x] Computer Vision - 
+ - [x] Software Development Life Cycle - https://www.linkedin.com/learning/software-development-life-cycle-sdlc/processes-for-software-projects
+ - [x] Computer Vision - https://linkedin.com/learning/computer-vision-for-data-scientists/computer-vision-introduction
  - [x] 'Advanced Python' - https://www.linkedin.com/learning/advanced-python-2018/welcome
 
 
