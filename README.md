@@ -16,7 +16,10 @@ to poke the man to see if he's still living.
 - [ ] GRPC  - https://www.linkedin.com/learning/beginner-s-guide-to-go-protocol-buffer/github-codespaces
 - [ ] Apache Kafka - https://www.linkedin.com/learning/complete-guide-to-apache-kafka-for-beginners/consumer-groups-and-consumer-offsets
 ## Past Projects
-
+- My Website
+- CourierMinus
+- Network Visualizer
+- Session Service
 ## Past Learning
  - [x] GraphQL Essential Training - https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials
  - [x] Advanced SQL for Data Science: Time Series - https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/learn-time-series-data-analysis-with-sql-23478409
