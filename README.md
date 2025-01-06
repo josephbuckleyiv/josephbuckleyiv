@@ -16,7 +16,7 @@ to poke the man to see if he's still living.
 ## Past Projects
 
 ## Past Courses
- [x] 
+ - [x] asdfas
 
 
 ## Misc. Things I worked on
