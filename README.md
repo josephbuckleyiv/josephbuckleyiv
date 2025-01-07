@@ -19,7 +19,7 @@ to poke the man to see if he's still living.
 - My Website
 - CourierMinus
 - Network Visualizer
-- Session Service
+- Session Service -- This I have as private repo, as it is integral to a product I'm developing, but it leverages OAuth, and follows the latest and greatest patterns on a seemless session service -- allowing users to authenticate using big name Identity Providers (Meta, X, Apple etc.). The next step would be developing a permission system (authorization) as well as integration with Network Visualizer.
 ## Past Learning
  - [x] GraphQL Essential Training - https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials
  - [x] Advanced SQL for Data Science: Time Series - https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/learn-time-series-data-analysis-with-sql-23478409
