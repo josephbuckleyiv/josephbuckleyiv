@@ -16,8 +16,8 @@ to poke the man to see if he's still living.
 - [ ] GRPC  - https://www.linkedin.com/learning/beginner-s-guide-to-go-protocol-buffer/github-codespaces
 - [ ] Apache Kafka - https://www.linkedin.com/learning/complete-guide-to-apache-kafka-for-beginners/consumer-groups-and-consumer-offsets
 ## Past Projects
-- My Website
-- CourierMinus
+- My Website -- My first and most elementary project, presenting articles and poems I've written, and ways to contact me. Simple stack of React TS, C# [ASP.NET] and Sqlite.  Site is hosted and self-managed on my own server (an old desktop I run perennially and remote into for management)
+- CourierMinus -- This is a project that provides a better graphical interface for Mailinator, facilitating faster testing of mail services. Although the tech stack is more elementary than my personal website, the existence of multiple sessions (differing email addresses) required careful state management. I use BootStrap and Reactive Extensions to facilate a smooth and straightforward user experience.
 - Network Visualizer
 - Session Service -- This I have as private repo, as it is integral to a product I'm developing, but it leverages OAuth, and follows the latest and greatest patterns regarding seemless session experience -- allowing users to authenticate using big name Identity Providers (Meta, X, Apple etc.). The next step would be developing a permission system (authorization) as well as integration with Network Visualizer.
 ## Past Learning
