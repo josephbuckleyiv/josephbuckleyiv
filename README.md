@@ -12,6 +12,7 @@ to poke the man to see if he's still living.
  seemless transition online, and architecting for scalability. This will ensure tolerance for possible network failure.
 ## Current Learning
 - Chapter 10 of 12 (0.83) - https://web.stanford.edu/~jurafsky/slp3/
+- Chapter 1 of 8 (0.13) - https://learnopengl.com/Introduction
 - Chapter 3 of 9 (0.33) - https://book.systemsapproach.org/index.html
 - [ ] GRPC  - https://www.linkedin.com/learning/beginner-s-guide-to-go-protocol-buffer/github-codespaces
 - [ ] Apache Kafka - https://www.linkedin.com/learning/complete-guide-to-apache-kafka-for-beginners/consumer-groups-and-consumer-offsets
