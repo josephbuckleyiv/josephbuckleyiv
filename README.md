@@ -14,7 +14,6 @@ to poke the man to see if he's still living.
 - Chapter 10 of 12 (0.83) - https://web.stanford.edu/~jurafsky/slp3/
 - Chapter 1 of 8 (0.13) - https://learnopengl.com/Introduction
 - Chapter 3 of 9 (0.33) - https://book.systemsapproach.org/index.html
-- [ ] GRPC  - https://www.linkedin.com/learning/beginner-s-guide-to-go-protocol-buffer/github-codespaces
 - [ ] Apache Kafka - https://www.linkedin.com/learning/complete-guide-to-apache-kafka-for-beginners/consumer-groups-and-consumer-offsets
 ## Past Projects
 - My Website -- My first and most elementary project, presenting articles and poems I've written, and ways to contact me. Simple stack of React TS, C# [ASP.NET] and Sqlite.  Site is hosted and self-managed on my own server (an old desktop I run perennially and remote into for management)
@@ -25,6 +24,7 @@ to poke the man to see if he's still living.
  - [x] GraphQL Essential Training - https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials
  - [x] Advanced SQL for Data Science: Time Series - https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/learn-time-series-data-analysis-with-sql-23478409
  - [x] Agile Software Development (Scrum) - https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-for-agile-software-development
+- [x] GRPC  - https://www.linkedin.com/learning/beginner-s-guide-to-go-protocol-buffer/github-codespaces
  - [x] Microsoft Certified: Azure Fundamentals
  - [x] Software Development Life Cycle - https://www.linkedin.com/learning/software-development-life-cycle-sdlc/processes-for-software-projects
  - [x] Computer Vision - https://linkedin.com/learning/computer-vision-for-data-scientists/computer-vision-introduction
