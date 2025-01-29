@@ -11,10 +11,8 @@ to poke the man to see if he's still living.
  real-time charts on a TS React client. Leveraging Ring-Buffers and Sqlite, I've gotten it to work 'offline' smooth as butter: the goal, then, is for a
  seemless transition online, and architecting for scalability. This will ensure tolerance for possible network failure.
 ## Current Learning
-- Chapter 10 of 12 (0.83) - https://web.stanford.edu/~jurafsky/slp3/
 - Chapter 1 of 8 (0.13) - https://learnopengl.com/Introduction
 - Chapter 3 of 9 (0.33) - https://book.systemsapproach.org/index.html
-- [ ] Apache Kafka - https://www.linkedin.com/learning/complete-guide-to-apache-kafka-for-beginners/consumer-groups-and-consumer-offsets
 ## Past Projects
 - My Website -- My first and most elementary project, presenting articles and poems I've written, and ways to contact me. Simple stack of React TS, C# [ASP.NET] and Sqlite.  Site is hosted and self-managed on my own server (an old desktop I run perennially and remote into for management)
 - CourierMinus -- This is a program that provides a better graphical interface for Mailinator, facilitating faster testing of mail services. Although the tech stack is more elementary than my personal website, the existence of multiple sessions (differing email addresses) required careful state management. I use BootStrap and Reactive Extensions to facilate a smooth and straightforward user experience.
@@ -29,7 +27,8 @@ to poke the man to see if he's still living.
  - [x] Software Development Life Cycle - https://www.linkedin.com/learning/software-development-life-cycle-sdlc/processes-for-software-projects
  - [x] Computer Vision - https://linkedin.com/learning/computer-vision-for-data-scientists/computer-vision-introduction
  - [x] 'Advanced Python' - https://www.linkedin.com/learning/advanced-python-2018/welcome
-
+ - [x] https://web.stanford.edu/~jurafsky/slp3/
+- [x] Apache Kafka - https://www.linkedin.com/learning/complete-guide-to-apache-kafka-for-beginners/consumer-groups-and-consumer-offsets
 
 ## Misc. Things I worked on
 - OpenGL renderer
