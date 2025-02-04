@@ -6,10 +6,7 @@ remain as active as ever, reading, creating, teaching myself new things -- being
 Here, I list some of those activities, for possible commendation or derision, or at the very least as a way for you
 to poke the man to see if he's still living.
 ## Current Project
- I'm delving into the world of observability and instrumenting applications. Specifically, I'm using the OpenTelemetry
- specification to define my collection and use of Metric data, in a Full-stack ASP.NET app that then uses said data, to paint
- real-time charts on a TS React client. Leveraging Ring-Buffers and Sqlite, I've gotten it to work 'offline' smooth as butter: the goal, then, is for a
- seemless transition online, and architecting for scalability. This will ensure tolerance for possible network failure.
+Creating a complex File-Structure React component, allowing drag and drop, reorganization and rollback. The headline here is 'From Scratch.'
 ## Current Learning
 - Chapter 1 of 8 (0.13) - https://learnopengl.com/Introduction
 - Chapter 3 of 9 (0.33) - https://book.systemsapproach.org/index.html
@@ -18,6 +15,10 @@ to poke the man to see if he's still living.
 - CourierMinus -- This is a program that provides a better graphical interface for Mailinator, facilitating faster testing of mail services. Although the tech stack is more elementary than my personal website, the existence of multiple sessions (differing email addresses) required careful state management. I use BootStrap and Reactive Extensions to facilate a smooth and straightforward user experience.
 - Network Visualizer -- This project aims to visualize connections between sites, servers and users. Using Reactflow, the graphs representing these connections are smooth and can be interacted with in the browser. It's scalable, leveraging Controller/Provider/Engine pattern to persist and read from various databases (MSSQL/PostgresSQL) using stored procedures. Finally, it has the notion of a session -- one can register a new user, who can create nodes, connections, and then have their data be persisted.
 - Session Service -- This I have as private repo, as it is integral to a product I'm developing, but it leverages OAuth, and follows the latest and greatest patterns regarding seemless session experience -- allowing users to authenticate using big name Identity Providers (Meta, X, Apple etc.). The next step would be developing a permission system (authorization) as well as integration with Network Visualizer.
+- Telemetry:  Delved into the world of observability and instrumenting applications. Specifically, I used the OpenTelemetry
+ specification to define my collection and use of Metric data, in a Full-stack ASP.NET app that then uses said data, to paint
+ real-time charts on a TS React client. Leveraging Ring-Buffers and Sqlite, I've gotten it to work 'offline' smooth as butter: the goal, then, is for a
+ seemless transition online, and architecting for scalability. This will ensure tolerance for possible network failure.
 ## Past Learning
  - [x] GraphQL Essential Training - https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials
  - [x] Advanced SQL for Data Science: Time Series - https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/learn-time-series-data-analysis-with-sql-23478409
